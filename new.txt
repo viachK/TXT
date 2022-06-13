@@ -1,0 +1,5 @@
+first name - Viacheslav
+last name - Kovryzhnykh
+age - 38
+number of pets - 1
+desired future salary($) - 400
